@@ -1,13 +1,13 @@
 {
-  "name": "nodejs-pptx",
+  "name": "@mtechaccess/nodejs-pptx",
   "version": "1.2.2",
   "description": "Generate PPTX files on the server-side with JavaScript.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heavysixer/node-pptx.git"
+    "url": "git+https://github.com/mtechaccess/node-pptx.git"
   },
-  "author": "Mark Daggett <mark@humansized.com> (github.com/heavysixer)",
+  "author": "Mark Daggett <mark@humansized.com> (github.com/heavysixer) > (https://www.mtechaccess.co.uk). Amended by Mtech Access",
   "contributors": [
     "Greg Dolley (github.com/gregdolley)"
   ],
@@ -81,9 +81,9 @@
     "tar": "^4.4.2"
   },
   "bugs": {
-    "url": "https://github.com/heavysixer/node-pptx/issues"
+    "url": "https://github.com/mtechaccess/node-pptx/issues"
   },
-  "homepage": "https://github.com/heavysixer/node-pptx#readme",
+  "homepage": "https://github.com/mtechaccess/node-pptx#readme",
   "main": "index.js",
   "directories": {
     "lib": "lib"
